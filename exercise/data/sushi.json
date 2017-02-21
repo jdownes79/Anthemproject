@@ -1,0 +1,28 @@
+[
+
+{  "name": "Fuki Sushi",
+"address": "4119 El Camino Real",
+"street": "Palo Alto",
+"state": "CA",
+"zip": "94306",
+"review": [
+"Fuki Sushi is a traditional sushi restaurant located in Palo Alto on the peninsula between San Jose and San Francisco, California.",
+"The fish at Fuki Sushi was excellent!" 
+],
+"rating": 4
+
+};
+
+{ "name": "Musashi",
+"address": "2000 Town Center, Suite 98",
+"street": "Southfield",
+"state": "MI",
+"zip": "48075",
+"review": [
+"Musashi is located in Southfield, a suburb of Detroit. Detroit is not the first place one thinks of for sushi, even so Musashi is very good." 
+],
+"rating": 5
+
+}
+
+]
